@@ -1,13 +1,13 @@
 pipeline:
-  name: deploy1
-  identifier: deploy1
+  name: deploy2
+  identifier: deploy2
   projectIdentifier: mphasis1
   orgIdentifier: default
   tags: {}
   stages:
     - stage:
-        name: deploy1
-        identifier: deploy1
+        name: deploy2
+        identifier: deploy2
         description: ""
         type: Deployment
         spec:
